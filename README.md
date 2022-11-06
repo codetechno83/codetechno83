@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codetechno83
+- 👋 Hi, I’m Gab
 - 👀 I’m interested in developing websites/softwares
 - 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on my future project
