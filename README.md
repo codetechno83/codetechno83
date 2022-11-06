@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codetechno83
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning html and java
+- 👀 I’m interested in developing websites/softwares
+- 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on my future project
 - 📫 How to reach me ... email:johngabrielmarbella83@gmail.com
 
